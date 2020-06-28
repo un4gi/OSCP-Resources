@@ -18,7 +18,7 @@ Various tools that may come in handy while preparing for the OSCP exam.
 - SecLists - Great collection of word lists - https://github.com/danielmiessler/SecLists
 - LinEnum.sh - Linux Enumeration Script - https://github.com/rebootuser/LinEnum
 - pspy - Linux Process Monitoring - https://github.com/DominicBreuker/pspy
-- PowerView.ps1 - Windows Enumeration script - https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
+- PowerSploit - Windows Penetration Testing toolkit - https://github.com/PowerShellMafia/PowerSploit
 - BloodHound - Active Directory Enumeration - https://github.com/BloodHoundAD
 
 ## Hacker Methodology
