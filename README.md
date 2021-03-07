@@ -21,29 +21,11 @@ Various tools that may come in handy while preparing for the OSCP exam.
 - PowerSploit - Windows Penetration Testing toolkit - https://github.com/PowerShellMafia/PowerSploit
 - BloodHound - Active Directory Enumeration - https://github.com/BloodHoundAD
 
-## Hacker Methodology
-1. TODO
+## Try Harder: A Guide to "Smash and Grab" Your OSCP Certificate (Part 1)
+https://un4gi.medium.com/try-harder-a-guide-to-smash-and-grab-your-oscp-certificate-part-1-2abcb7da930c
 
-## Reconnaissance
-1. TODO
+## Try Harder: A Guide to "Smash and Grab" Your OSCP Certificate (Part 2)
+https://un4gi.medium.com/try-harder-a-guide-to-smash-and-grab-your-oscp-certification-part-2-6fa8237f6054
 
-## External Enumeration
-1. TODO
-
-## Web Enumeration
-1. TODO
-
-## Exploitation
-1. TODO
-
-## Linux Enumeration
-1. TODO
-
-## Windows Enumeration
-1. TODO
-
-## Privilege Escalation
-1. TODO
-
-## Mindset
-1. TODO
+## Try Harder: A Guide to "Smash and Grab" Your OSCP Certificate (Part 3)
+https://un4gi.medium.com/try-harder-a-guide-to-smash-and-grab-your-oscp-certification-part-3-3ce3dc048393
